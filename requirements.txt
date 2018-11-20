@@ -2,3 +2,4 @@ numpy
 scipy
 scikit-learn
 scikit-image
+h5py
